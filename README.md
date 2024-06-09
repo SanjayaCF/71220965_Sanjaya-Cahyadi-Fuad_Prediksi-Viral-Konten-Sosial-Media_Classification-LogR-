@@ -26,7 +26,7 @@ Data Channel: Social Media<br>
 <br>
 <br>
 
-**Output: Tidak Viral**
+**Output: Tidak Viral**<br>
 **Melakukan Perubahan Input Yaitu Pada Data Channel Menjadi Lifestyle**
 <img width="599" alt="outputGUI2" src="https://github.com/SanjayaCF/71220965_Sanjaya-Cahyadi-Fuad_Prediksi-Viral-Konten-Sosial-Media_Classification-LogR-/assets/117884188/9544bbaf-7187-44a5-a3b4-5362ad88918c">
 <img width="239" alt="outputNotebook2" src="https://github.com/SanjayaCF/71220965_Sanjaya-Cahyadi-Fuad_Prediksi-Viral-Konten-Sosial-Media_Classification-LogR-/assets/117884188/a627cff9-01d7-4625-bb3b-c792e7821d30">
