@@ -20,6 +20,7 @@ Title Sentiment Polarity: 0.2<br>
 Data Channel: Social Media<br>
 
 **Output: Viral**
+**<br>**
 <img width="599" alt="outputGUI1" src="https://github.com/SanjayaCF/71220965_Sanjaya-Cahyadi-Fuad_Prediksi-Viral-Konten-Sosial-Media_Classification-LogR-/assets/117884188/5fffc28d-ab8e-4d4b-9cbd-a53e36fdecee">
 <img width="239" alt="outputNotebook1" src="https://github.com/SanjayaCF/71220965_Sanjaya-Cahyadi-Fuad_Prediksi-Viral-Konten-Sosial-Media_Classification-LogR-/assets/117884188/55391f62-071e-487e-af8b-611abe1d2000">
 <br>
